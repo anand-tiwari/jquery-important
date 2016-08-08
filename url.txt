@@ -1,1 +1,2 @@
 range silder - http://ghusse.github.io/jQRangeSlider/events.html
+charts - http://www.fusioncharts.com/javascript-chart-fiddles/?charts&feature=Exporting--Charts
