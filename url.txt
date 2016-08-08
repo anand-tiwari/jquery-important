@@ -9,4 +9,14 @@
 	here - stedolan  user_name replace it with your username .
 			jq- repository name replace it with your repository name. 
 			
+4. jquery slider- 
+		https://amazingslider.com/
+		http://www.jssor.com/
 
+5. Menu list - 
+		http://apycom.com/
+
+6. Jquery all functionlity :-
+		https://oscarotero.com/jquery/
+
+7. http://www.trirand.com/blog/jqgrid/jqgrid.html
