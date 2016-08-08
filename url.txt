@@ -1,9 +1,12 @@
-range silder - http://ghusse.github.io/jQRangeSlider/events.html
+1 .range silder - http://ghusse.github.io/jQRangeSlider/events.html
+2. charts - http://www.fusioncharts.com/javascript-chart-fiddles/?charts&feature=Exporting--Charts
 
-GIT API - https://stedolan.github.io/jq/tutorial/
-	
+
+3. GIT API - https://stedolan.github.io/jq/tutorial/
+	How to access commits details in json format from github and all realated stuffs froms github.
 	eg . for getting commits :-  
 	https://api.github.com/repos/stedolan/jq/commits?per_page=5'
 	here - stedolan  user_name replace it with your username .
 			jq- repository name replace it with your repository name. 
 			
+
