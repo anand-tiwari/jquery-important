@@ -21,3 +21,12 @@
 
 dropdown menu - http://www.9lessons.info/2012/06/simple-drop-down-menu-with-jquery-and.html
 7. http://www.trirand.com/blog/jqgrid/jqgrid.html
+
+https://developer.mozilla.org/en-US/docs/Web
+
+http://jsfiddle.net/kizu/zfUyN/
+http://jsfiddle.net/chriscoyier/Hyg3C/20/
+http://jsfiddle.net/hakim/Ht6Ym/
+http://jsfiddle.net/oskar/c6n7q/
+http://jsfiddle.net/PVZB8/139/
+http://jsfiddle.net/user/leaverou/fiddles/
