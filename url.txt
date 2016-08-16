@@ -7,7 +7,7 @@
 	eg . for getting commits :-  
 	https://api.github.com/repos/stedolan/jq/commits?per_page=5'
 	here - stedolan  user_name replace it with your username .
-			jq- repository name replace it with your repository name. 
+			jq- repository name replace it with your repository name.
 			
 4. jquery slider- 
 		https://amazingslider.com/
