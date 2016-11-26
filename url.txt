@@ -1,3 +1,7 @@
+pip freeze | xargs pip uninstall -y   delete all install apps inside virtualenv
+
+
+
 1 .range silder - http://ghusse.github.io/jQRangeSlider/events.html
 2. charts - http://www.fusioncharts.com/javascript-chart-fiddles/?charts&feature=Exporting--Charts
 		setting- http://www.fusioncharts.com/dev/basic-chart-configurations/number-format.html
